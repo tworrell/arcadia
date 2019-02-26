@@ -9,6 +9,18 @@ Show the version of ruby:
 ruby -v
 ```
 
+### Windows basics
+
+Change into the "foo" directory:
+```
+cd foo
+```
+
+List contents of "foo":
+```
+dir foo
+```
+
 ### Game basics
 
 Make a new character in IRB:
