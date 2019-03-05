@@ -2,7 +2,7 @@
 
 🐲 A text-based D&D adventure game. Coming soon ⚔️
 
-Built with @tworrell @mlee8812
+Built with [@tworrell](https://github.com/tworrell) [@mlee8812](https://github.com/mlee8812)
 
 ### Ruby basics
 
