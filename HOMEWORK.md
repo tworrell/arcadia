@@ -20,10 +20,12 @@ add_two("this should explode")
 
 ### Mar 11, 2019
 
-*Easy-ish*
+**Easy-ish**
+
 Write a test for the default `hit_points`
 
-*Medium-ish*
+**Medium-ish**
+
 Be able to pass in a character `name` to the `initialize` method
 Write a test for it, too! Everything we do must have tests.
 Hint:
@@ -32,7 +34,8 @@ def initialize(name)
 end
 ```
 
-*Hard*
+**Hard**
+
 Make the initialize method generate random numbers between 3 and 18 for every other `attr_accessor`. Your character should look like this if you get it right:
 
 ```
@@ -47,13 +50,13 @@ Wow, this character is **weak**
 
 --
 
-Mar 18, 2019
+### Mar 18, 2019
 
 TODO
 
 --
 
-Mar 25, 2019
+### Mar 25, 2019
 
 TODO
 
