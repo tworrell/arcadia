@@ -1,6 +1,8 @@
-# game_name_goes_here
-🐲⚔️
+# Arcadia
 
+🐲 A text-based D&D adventure game. Coming soon ⚔️
+
+Built with @tworrell @mlee8812
 
 ### Ruby basics
 
