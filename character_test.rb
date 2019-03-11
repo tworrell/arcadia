@@ -14,4 +14,16 @@ class TestCharacter < MiniTest::Unit::TestCase
     assert_equal("Tara", character.name)
   end
 
+  def test_take_damage_reduces_hit_points
+    character = Character.new("Alice")
+    character.take_damage(8)
+    assert_equal(92, character.hit_points)
+  end
+
+  def test_take_more_damage_than_hit_points
+    character = Character.new("Alice")
+    character.take_damage(1000)
+    assert_equal(0, character.hit_points)
+  end
+
 end

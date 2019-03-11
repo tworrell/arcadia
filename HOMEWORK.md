@@ -33,8 +33,9 @@ Hint:
 def initialize(name)
 end
 ```
+--
 
-**Hard**
+### Mar 18, 2019
 
 Make the initialize method generate random numbers between 3 and 18 for every other `attr_accessor`. Your character should look like this if you get it right:
 
@@ -48,11 +49,7 @@ Make the initialize method generate random numbers between 3 and 18 for every ot
 
 Wow, this character is **weak**
 
---
 
-### Mar 18, 2019
-
-TODO
 
 --
 
