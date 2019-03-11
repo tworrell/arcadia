@@ -9,7 +9,8 @@ class Character
                 :charisma,
                 :hit_points
 
-  def initialize
+  def initialize(name)
+    @name = name
     @hit_points = 100
   end
 
