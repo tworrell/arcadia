@@ -37,6 +37,8 @@ end
 
 ### Mar 18, 2019
 
+**Thing #1**
+
 Make the initialize method generate random numbers between 3 and 18 for every other `attr_accessor`. Your character should look like this if you get it right:
 
 ```
@@ -49,7 +51,17 @@ Make the initialize method generate random numbers between 3 and 18 for every ot
 
 Wow, this character is **weak**
 
+**Thing #2**
 
+Let's pretend that we can eat food and regain `hit_point`s. Here is some food you can eat, and the corresponding `hit_point` you regain by eating that food:
+
+```
+"steak"     ---> 10 hit points regained
+"mushrooms" ---> 3 hit points regained
+"rabbit"    ---> 7 hit points regained
+```
+
+Write a method that takes `food` as a argument and adds to the hit points that a character has in their total. Also, write code that makes sure a character can't go over 100 hit points. WRITE TESTS FOR BOTH!!!!!
 
 --
 
