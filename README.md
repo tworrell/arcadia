@@ -4,6 +4,11 @@
 
 Built with [@tworrell](https://github.com/tworrell) [@mlee8812](https://github.com/mlee8812)
 
+This version includes changes Tara made to her homework.
+
+
+
+
 ### Ruby basics
 
 Show the version of ruby:
